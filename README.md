@@ -4,7 +4,7 @@
 ### I'm Devi Venkata Vara Prasad Kunchala ! 
 
 
-- 🔭 I’m currently studying final year Computer Science and Engineering.
+- 🔭 I’m currently pursuing Maters in  Computer Science and Engineering.
 - 🌱 I’m currently learning Python and Machine Learning .
 - 👯 I’m looking to collaborate on Python | ML | AI Projects.
 - 🤔 I’m looking for help with Deep Learning.
